@@ -1,2 +1,2 @@
 # ExpressJS-CRUD
-Express.js CRUD, Login &amp; Signup
+Express.js CRUD, Login &amp; Signup, Bcrypt, Mongoose
